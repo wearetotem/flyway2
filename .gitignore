@@ -1,0 +1,3 @@
+# Ignore all .conf files, except conf.example
+*.conf
+!*.conf.example

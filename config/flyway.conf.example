@@ -1,0 +1,15 @@
+flyway.locations=filesystem:/home/ec2-user/sql
+
+flyway.defaultSchema=flyway
+flyway.schemas=flyway
+
+flyway.url=jdbc:xxx
+flyway.user=xxx
+flyway.password=xxx
+
+
+
+
+
+
+
